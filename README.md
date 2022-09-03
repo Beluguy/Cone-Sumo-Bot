@@ -9,6 +9,7 @@ This is the Github page of my SumoBot Project. Here you will find the [stl files
 * [Autodesk Inventor](https://www.autodesk.com/products/inventor) for a 3D modeling software
 * [Autodesk Tinkercad](https://www.tinkercad.com/) for a web based 3D modeling platform
 * [Dabble](https://thestempedia.com/product/dabble/) as an app to manually contorl the SumoBot via Bluetooth
+* [Ultrasonic library](https://github.com/ErickSimoes/Ultrasonic) to easily control the ultrasonic sensor
 
 ### License
 
