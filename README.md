@@ -6,8 +6,8 @@ This is the Github page of my SumoBot. Here you will find the [stl files](https:
 ### Things I used:
 
 * [Arduino IDE](https://www.arduino.cc/en/software#download) for an IDE
-* [Autodesk inventor](https://www.autodesk.com/products/inventor) for a 3D modeling software
-* [Tinkercad](https://www.tinkercad.com/) for a web based 3D modeling platform
+* [Autodesk Inventor](https://www.autodesk.com/products/inventor) for a 3D modeling software
+* [Autodesk Tinkercad](https://www.tinkercad.com/) for a web based 3D modeling platform
 * [Dabble](https://thestempedia.com/product/dabble/) as an app to manually contorl the SumoBot via Bluetooth
 
 ### License
