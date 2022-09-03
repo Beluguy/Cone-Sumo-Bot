@@ -1,7 +1,7 @@
 # ConeSumoBot
 ![GitHub](https://img.shields.io/github/license/beluguy/Cone-Sumo-Bot)
 
-This is the Github page of my SumoBot. Here you will find the [stl files](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/print%20ready%20(stl)), [ipt files](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/3D%20models) and [ESP32 sketches](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/ESP32%20sketches) for this project. Auto.ino is for autonomous mode; Manual.ino is for manual control using bluetooth via the [Dabble app](https://thestempedia.com/product/dabble/). 
+This is the Github page of my SumoBot Project. Here you will find the [stl files](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/print%20ready%20(stl)), [ipt files](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/3D%20models) and [ESP32 sketches](https://github.com/Beluguy/Cone-Sumo-Bot/tree/main/ESP32%20sketches) for this project. Auto.ino is for autonomous mode; Manual.ino is for manual control using bluetooth via the [Dabble app](https://thestempedia.com/product/dabble/). 
 
 ### Things I used:
 
