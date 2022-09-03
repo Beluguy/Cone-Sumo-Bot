@@ -10,6 +10,6 @@ This is the Github page of my SumoBot. Here you will find the [stl files](https:
 * [Tinkercad](https://www.tinkercad.com/) for a web based 3D modeling platform
 * [Dabble](https://thestempedia.com/product/dabble/) as an app to manually contorl the SumoBot via Bluetooth
 
-## License
+### License
 
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE.md](LICENSE.md) file for details
