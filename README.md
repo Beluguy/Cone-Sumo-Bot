@@ -13,4 +13,4 @@ This is the Github page of my SumoBot Project. Here you will find the [stl files
 
 ### License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0, see the [LICENSE.md](LICENSE.md) file for details.
